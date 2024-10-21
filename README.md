@@ -1,9 +1,8 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_350_1400/0/1641996122854?e=1688601600&v=beta&t=NFZaW6hKnBjkZhjzUUm6CUZc-K-9J0BOV2Hukrsjv9I)
 
 
 
 <h1 align="center">Hi 👋, I'm Craig Barcinas</h1>
-<h3 align="center">A passionate Software Engineer from Las Vegas, NV.</h3>
+<h3 align="center">Software Engineer from Las Vegas, NV.</h3>
 
 
 
